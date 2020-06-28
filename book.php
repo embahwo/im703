@@ -93,7 +93,7 @@ echo "+-Booking.com-+\n";
 echo "[!] CODED BY RZYZ GAVINI [!]\n";
 echo "[!] use vpn for get more rewards [!]\n";
 sleep(2);
-echo "[?] Gmail (ex rzyzgavini@gmail.com ) : ";
+echo "[?] Gmail (ex urfuckinmail@gmail.com ) : ";
 $email = trim(fgets(STDIN));
 echo "[?] Password : ";
 $password = trim(fgets(STDIN));
